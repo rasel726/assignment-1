@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.d-flex {
+  display: flex;
+}
+
+/* Donate Section */
+.donate-section {
+  text-align: center;
+}
+
+.donate-section h1 {
+  font-size: 40px;
+}
+
+.donate-section p {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+
+.ammount-item {
+  background-color: #fafafa;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+
+.ammount-item-200 {
+  background-color: #ffeeee;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  margin-left: 20px;
+  border-radius: 5px;
+  border: 2px solid #ff5959;
+}
+
+.donate-ammount {
+  margin-left: 265px;
+  margin-top: 50px;
+}
+
+.other-ammount {
+  margin: 0 auto;
+  border-bottom: 1px solid black;
+  padding: 40px 95px 35px 30px;
+}
+
+.link-button a {
+  text-decoration: none;
+  background-color: #ff5959;
+  padding: 20px 30px;
+  font-weight: 700;
+  color: white;
+  border-radius: 8px;
+}
+
+.link-button {
+  margin-top: 50px;
+}
+
+/* Donate Plan Section */
+.donate-plan-section {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.donate-plan-section h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.plan-pra {
+  text-align: center;
+  width: 40%;
+  margin: 0 auto;
+  padding-top: 25px;
+  padding-bottom: 40px;
+}
+
+.def-item {
+  width: 20%;
+  height: 250px;
+  padding: 30px;
+  border-radius: 10px;
+  margin-left: 100px;
+}
+
+.def-item img {
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.def-item p {
+  margin-top: 15px;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+
+.item1 {
+  background-color: #edf5f6;
+  margin-left: 80px;
+}
+
+.item2 {
+  margin-left: 100px;
+  background-color: #ffeeee;
+}
+
+.item3 {
+  margin-left: 100px;
+  background-color: #fff4d6;
+}
+
+.half-width {
+  width: 30%;
+}
+
+.half-width h2 {
+  font-size: 35px;
+  padding-bottom: 30px;
+}
+
+.img10 {
+  width: 100%;
+  border-radius: 10px;
+  margin-left: 200px;
+  margin-top: 20px;
+}
+
+.donation-item {
+  margin-left: 250px;
+}
